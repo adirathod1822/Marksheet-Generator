@@ -1,0 +1,25 @@
+{
+  "1": {
+    "student_name": "Aditya Rathod",
+    "marks": {
+      "English": 67,
+      "Maths": 33,
+      "Physics": 89
+    },
+    "total": 189,
+    "average": 63,
+    "grade": "B"
+  },
+  "2": {
+    "student_name": "Maan Lad",
+    "marks": {
+      "English": 70,
+      "Maths": 48,
+      "Physics": 80,
+      "DS": 95
+    },
+    "total": 293,
+    "average": 73,
+    "grade": "B+"
+  }
+}
